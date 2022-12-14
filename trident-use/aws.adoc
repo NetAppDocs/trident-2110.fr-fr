@@ -16,6 +16,7 @@ Découvrez comment configurer NetApp Cloud Volumes Service (CVS) pour AWS en tan
 
 NOTE: Cloud Volumes Service pour AWS ne prend pas en charge les volumes inférieurs à 100 Go. Trident crée automatiquement des volumes de 100 Go lorsqu'un volume plus petit est demandé.
 
+.Ce dont vous avez besoin
 Pour configurer et utiliser le https://cloud.netapp.com/cloud-volumes-service-for-aws?utm_source=NetAppTrident_ReadTheDocs&utm_campaign=Trident["Cloud Volumes Service pour AWS"^] back-end, vous avez besoin des éléments suivants :
 
 * Un compte AWS configuré avec NetApp CVS

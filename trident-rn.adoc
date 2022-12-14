@@ -18,7 +18,7 @@ WARNING: Le `tridentctl` Binaire pour Linux fourni dans le fichier zip du progra
 
 
 
-== Nouveautés en 21.10.1
+== Nouveautés de la version 21.10.1
 
 NetApp améliore et améliore continuellement ses produits et services. Voici quelques-unes des dernières fonctionnalités d'Astra Trident.
 
